@@ -1,0 +1,15 @@
+.hidden {
+  display: none;
+  visibility: hidden;
+}
+
+.coffee-icon {
+  --fallback-color: #000000;
+  --handle-color: #c13127;
+  --cup-color: #ef5b49;
+  --smoke-color: #cacaea;
+
+  width: 100px;
+  height: 100px;
+  fill: var(--fallback-color);
+}

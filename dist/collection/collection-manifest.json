@@ -1,0 +1,25 @@
+{
+  "components": [
+    {
+      "tag": "c-coffee-icon",
+      "dependencies": [],
+      "componentClass": "CustomCoffeeIconComponent",
+      "componentPath": "components/c-coffee-icon.js",
+      "styles": {
+        "$": {
+          "stylePaths": [
+            "components/c-coffee-icon.scss"
+          ]
+        }
+      },
+      "shadow": true
+    }
+  ],
+  "collections": [],
+  "compiler": {
+    "name": "@stencil/core",
+    "version": "0.12.4",
+    "typescriptVersion": "2.9.2"
+  },
+  "bundles": []
+}
